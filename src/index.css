@@ -1,0 +1,85 @@
+body {
+  background-image: linear-gradient(to top, #e5f3ff 0%, #e5f3ff 100%);
+}
+
+#NombreEmpresa {
+  text-align: center;
+  font-family: 'ABeeZee', sans-serif;
+  font-size: 50px;
+  color: black;
+  border-bottom: solid black;
+  margin-left: 17%;
+  margin-right: 17%;
+  background-image: radial-gradient(73% 147%, #ffffff59 59%, #ffffff 100%), radial-gradient(91% 146%, rgba(146, 226, 236, 0.5) 47%, rgba(0, 0, 0, 0.50) 100%);
+  background-blend-mode: screen;
+  border-radius: 5px;
+}
+
+.separador {
+  margin-top: 100px;
+}
+
+h2 {
+  text-align: center;
+  font-size: 40px;
+  color: black;
+}
+
+p {
+  text-align: justify;
+  font-size: 20px;
+  padding-left: 10%;
+  padding-right: 10%;
+  font-family: 'Handlee', cursive;
+}
+
+.nosotros {
+  margin-right: 3%;
+  margin-left: 42%;
+
+}
+
+
+.mision {
+  margin-right: 50%;
+  margin-left: 5%;
+}
+
+.vision {
+  margin-right: 5%;
+  margin-left: 50%;
+  margin-top: -27%;
+
+}
+
+#tamaño {
+  width: 50px;
+  margin-left: 80px;
+  margin-right: 50px;
+
+}
+
+
+#tamaño2 {
+  width: 500px;
+  margin-left: 80px;
+  margin-right: 50px;
+  position: absolute;
+  margin-top: 30px;
+  border-radius: 50px;
+
+}
+
+.centro {
+  margin-top: 5%;
+  margin-bottom: 5%;
+  margin-left: 20%;
+  margin-right: 20%;
+}
+
+.imagenPrin {
+  position: absolute;
+  margin-right: 55%;
+  padding-top: 109px;
+}
+
